@@ -1,0 +1,15 @@
+Nama : William Yulio
+NIM : 2301869840
+Kelas : LD01
+
+Kesimpulan :
+Berdasarkan hasil simulasi menggunakan phyton code pada
+kedua algorithm, didapatkan hasil bahwa algoritma LMS
+mendapatkan hasil Error yang lebih besar setiap iterasinya.
+Sedangkan untuk algoritma BPNN, memiliki hasil error
+yang lebih kecil setiap iterasinya.
+
+Hal ini menyebabkan algoritma BPNN lebih tepat untuk
+digunakan dalam mengkomputasi XOR Operation. Karena
+memiliki hasil error yang kecil sehingga hasil yang
+didapatkan jauh lebih tepat dibanding dengan LMS.
